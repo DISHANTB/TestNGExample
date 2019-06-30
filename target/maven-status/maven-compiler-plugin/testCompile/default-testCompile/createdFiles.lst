@@ -1,0 +1,8 @@
+pages\tshirtPage.class
+pages\authPage.class
+pages\GoogleSearchPage.class
+pages\SpecifiedResultPage.class
+com\TestNG\Utility\BrowserFactory.class
+pages\landingPage.class
+pages\indexPage.class
+pages\searchResultPage.class

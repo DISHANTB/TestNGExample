@@ -3,6 +3,7 @@
   <test name="Test">
     <classes>
       <class name="com.TestNG.SampleTestNG.firstScenario"/>
+	  <class name="com.TestNG.SampleTestNG.secondScenario"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
