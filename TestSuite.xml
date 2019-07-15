@@ -2,8 +2,15 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="com.TestNG.SampleTestNG.firstScenario"/>
-	  <class name="com.TestNG.SampleTestNG.secondScenario"/>
+      <class name="com.TestNG.SampleTestNG.walksinScenario"/>	
     </classes>
+    <groups>
+    	<run>
+    		<include name="Scenario1"></include>
+    		<include name="Scenario2"></include>
+    	</run>
+    </groups>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
+

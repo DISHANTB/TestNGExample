@@ -1,8 +1,13 @@
 pages\tshirtPage.class
 pages\authPage.class
 pages\GoogleSearchPage.class
-pages\SpecifiedResultPage.class
+pages\LoginPage.class
 com\TestNG\Utility\BrowserFactory.class
 pages\landingPage.class
+pages\SMSReport.class
+pages\SpecifiedResultPage.class
+pages\Homepage.class
+com\TestNG\SampleTestNG\walksinScenario.class
 pages\indexPage.class
 pages\searchResultPage.class
+pages\SendSMSPage.class
